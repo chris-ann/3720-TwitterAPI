@@ -1,0 +1,13 @@
+figure {
+	width: 20%;
+	float: left;
+}
+
+figure img {
+	width: 100%;
+}
+
+figcaption {
+	text-align: right;
+}
+
