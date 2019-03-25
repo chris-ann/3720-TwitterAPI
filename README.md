@@ -4,8 +4,8 @@ This project works with the wonderful PHP Wrapper [TwitterAPIExchange.php](https
 
 ## Get Validated:
 * Create a [Twitter App](https://developer.twitter.com/en/apps)
-* use "http://127.0.0.1/return" as the app address
-* view keys and tokens
+* use a domain name you own as the Website URL (won't be an issue for local hosting)
+* generate keys and tokens
 
 ## Update and Run Code
 * update credentials in get_tweets.php with keys and tokens from Twitter App
